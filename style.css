@@ -1,0 +1,19 @@
+body{
+    background-image:url("burntmabut.jpg");
+    background-size: cover;
+}
+h3{
+    color:rgb(7, 0, 136);
+    background: linear-gradient(to right, #a8ff78, #78ffd6);
+font-size:30px;
+padding:10px;
+border-radius:30px;
+margin:0px;
+font-weight:bold;
+}
+
+canvas{
+    margin-top:200px;
+    background-color: aqua;
+    color:black;
+}
